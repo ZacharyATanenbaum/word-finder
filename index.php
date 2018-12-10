@@ -26,20 +26,20 @@
     </nav>
     <article>
         <h1 id="gameName">Word-Finder</h1>
-        <h3 id="groupName">The Raging Dissapointments</h3>
+        <h3 id="groupName">The Raging Disappointments</h3>
         <h3>Instructions:</h3>
         <div id="gameDesc" class="jumbotron">
             <div>
                 <p>
                     <b>How to Win</b>
                     <br>
-                    The goal of the game is to have the most points when the game ends. The game ends when all rounds have been completed. A round being a cycle where each player gets a single turn.
+                    The goal of the game is to accumulate the most points by the time the game finishes. The game has <code>n</code> rounds (defined by the player). A round consists of a turn for each player.
                 </p>
                 <p>
                 <br>
                     <b>Turns</b>
                     <br>
-                    A turn is split into two section - The Action Phase and Word Phase. In the Action Phase a player gets to rotate a column (up/down) a row (right/left) or swap a letter with any other letter. The Word Phase is where a player may select a word on the board to remove for points. The removed letters are then re-populated randomly.
+                    A turn is split into two sections - The Action Phase and Word Phase. In the Action Phase, a player gets a chance to either: rotate a column (up/down), rotate a row (right/left), or swap a letter with any other letter. The Word Phase provides a player the option to select a word on the board to be removed. If a word is removed, the letters are re-populated randomly.
                 </p>
                 <p>
                 <br>
@@ -47,9 +47,9 @@
                     <br>
                 <ul>
                     <li>A word may only go from left to right or up to down.</li>
-                    <li>A word must be adjacent letters that are not diagonal.</li>
+                    <li>A word must formed with adjacent letters that are not diagonal.</li>
                     <li>The maximum board size is 12 letters by 12 letters.</li>
-                    <li>There may be up to four players and a bot. His name is Botty Mc. BotFace.</li> 
+                    <li>There may be up to four players and a bot. His name is sadly not Botty Mc. BotFace. Instead it's Bot. Go figure.</li> 
                 </ul>
                 </p>
             </div>
