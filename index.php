@@ -47,7 +47,7 @@
                     <br>
                 <ul>
                     <li>A word may only go from left to right or up to down.</li>
-                    <li>A word must formed with adjacent letters that are not diagonal.</li>
+                    <li>A word must be formed with adjacent letters that are not diagonal.</li>
                     <li>The maximum board size is 12 letters by 12 letters.</li>
                     <li>There may be up to four players and a bot. His name is sadly not Botty Mc. BotFace. Instead it's Bot. Go figure.</li> 
                 </ul>
