@@ -54,14 +54,14 @@
                 </p>
             </div>
         </div>
-        <div id="scoreArea", class="jumbotron">
-	</div>
+
         <h3>Play It!</h3>
         <form id="gameSettings" class="well">
         </form>
 <!--        <iframe src="games/Word-Finder/build/index.html" class="game" width="800" height="800"></iframe>-->
     </article>
     <?php include $base."footer.php"; ?>
+	</div>
 </div>
 <script type="text/javascript">
     newWindowBtn(1000,900,"games/Word-Finder/build/index.html", ['textBoxDemo', 'btnDemo', 'selectDemo']);
