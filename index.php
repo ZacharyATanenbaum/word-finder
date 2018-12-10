@@ -58,7 +58,6 @@
         <h3>Play It!</h3>
         <form id="gameSettings" class="well">
         </form>
-<!--        <iframe src="games/Word-Finder/build/index.html" class="game" width="800" height="800"></iframe>-->
     </article>
     <?php include $base."footer.php"; ?>
 	</div>
