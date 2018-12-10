@@ -27,20 +27,22 @@
     <article>
         <h1 id="gameName">Word-Finder</h1>
         <h3 id="groupName">The Raging Dissapointments</h3>
-        <h3>Instruction:</h3>
+        <h3>Instructions:</h3>
         <div id="gameDesc" class="jumbotron">
             <div>
                 <p>
                     <b>How to Win</b>
                     <br>
-                    <font size="2">The goal of the game is to have the most points when the game ends. The game ends when all rounds have been completed. A round being a cycle where each player gets a single turn.</font>
+                    The goal of the game is to have the most points when the game ends. The game ends when all rounds have been completed. A round being a cycle where each player gets a single turn.
                 </p>
                 <p>
+                <br>
                     <b>Turns</b>
                     <br>
-                    <font size="2">A turn is split into two section - The Action Phase and Word Phase. In the Action Phase a player gets to rotate a column (up/down) a row (right/left) or swap a letter with any other letter. The Word Phase is where a player may select a word on the board to remove for points. The removed letters are then re-populated randomly.</font>
+                    A turn is split into two section - The Action Phase and Word Phase. In the Action Phase a player gets to rotate a column (up/down) a row (right/left) or swap a letter with any other letter. The Word Phase is where a player may select a word on the board to remove for points. The removed letters are then re-populated randomly.
                 </p>
                 <p>
+                <br>
                     <b>Rules</b>
                     <br>
                 <ul>
